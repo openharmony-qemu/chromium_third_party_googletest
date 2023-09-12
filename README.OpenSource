@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_third_party_googletest",                   # 上游开源软件名全称
+        "Name": "googletest",                   # 上游开源软件名全称
         "License":        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE"     # 许可证所在文件路径
         "Version Number": "2ddfdf819d7c37e5e314566ccd3ec68a40a7297c",
