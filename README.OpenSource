@@ -1,10 +1,11 @@
 [
     {
-        "Name": "googletest",                   # 上游开源软件名全称
-        "License":        # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE"     # 许可证所在文件路径
+        "Name": "googletest",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE",
         "Version Number": "2ddfdf819d7c37e5e314566ccd3ec68a40a7297c",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/googletest.git@2ddfdf819d7c37e5e314566ccd3ec68a40a7297c",   # 上游软件包发布地址
-        "Description": "Google Test单元测试框架"           # 开源软件功能描述
+        "Owner": "huangjiewen2@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/googletest.git@2ddfdf819d7c37e5e314566ccd3ec68a40a7297c",
+        "Description": "Google Test单元测试框架"
     }
 ]
