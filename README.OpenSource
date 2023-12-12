@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "googletest",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE",
+        "Version Number": "2ddfdf819d7c37e5e314566ccd3ec68a40a7297c",
+        "Owner": "huangjiewen2@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/googletest.git@2ddfdf819d7c37e5e314566ccd3ec68a40a7297c",
+        "Description": "Google Test单元测试框架"
+    }
+]
